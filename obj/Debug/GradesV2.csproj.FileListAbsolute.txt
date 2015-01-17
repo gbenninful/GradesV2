@@ -1,0 +1,7 @@
+c:\users\georgeb\documents\visual studio 2013\Projects\GradesV2\GradesV2\bin\Debug\GradesV2.exe.config
+c:\users\georgeb\documents\visual studio 2013\Projects\GradesV2\GradesV2\bin\Debug\GradesV2.exe
+c:\users\georgeb\documents\visual studio 2013\Projects\GradesV2\GradesV2\bin\Debug\GradesV2.pdb
+c:\users\georgeb\documents\visual studio 2013\Projects\GradesV2\GradesV2\obj\Debug\GradesV2.csprojResolveAssemblyReference.cache
+c:\users\georgeb\documents\visual studio 2013\Projects\GradesV2\GradesV2\obj\Debug\GradesV2.exe
+c:\users\georgeb\documents\visual studio 2013\Projects\GradesV2\GradesV2\obj\Debug\GradesV2.pdb
+C:\Users\GeorgeB\documents\visual studio 2013\Projects\GradesV2\GradesV2\bin\Debug\grades.txt
